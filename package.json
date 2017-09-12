@@ -1,6 +1,7 @@
 {
   "name": "react-pixi-game-poc",
   "version": "0.1.0",
+  "homepage": "https://pavestru.github.io/react-pixi-game-poc",
   "private": true,
   "dependencies": {
     "pixi.js": "^4.5.5",
