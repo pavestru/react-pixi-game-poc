@@ -6,6 +6,7 @@
     "pixi.js": "^4.5.5",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
+    "react-hotkeys": "^0.10.0",
     "react-pixi": "^0.9.15"
   },
   "devDependencies": {
