@@ -91,6 +91,9 @@ class App extends Component {
             <h2>Welcome to React with Pixi.js (react-pixi)</h2>
           </div>
           <p className="App-intro">
+            Source: <a href="https://github.com/pavestru/react-pixi-game-poc">https://github.com/pavestru/react-pixi-game-poc</a>
+          </p>
+          <p className="App-intro">
             Use arrows on your keyboard to move the robot around.
           </p>
           <MapStage keys={this.state.keys}/>
